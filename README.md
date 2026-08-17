@@ -1,5 +1,7 @@
 # AI Learning Journey
 
+[![Tests](https://github.com/jay28jay-source/ai-learning-journey/actions/workflows/tests.yml/badge.svg)](https://github.com/jay28jay-source/ai-learning-journey/actions/workflows/tests.yml)
+
 这是我的第一个 GitHub 仓库，用来公开记录从零学习 Git、Python 和 AI 工程的过程。
 
 ## 当前目标
