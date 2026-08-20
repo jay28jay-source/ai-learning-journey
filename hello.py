@@ -3,7 +3,7 @@
 
 MESSAGE_LINES = (
     "Hello, AI engineering journey!",
-    "今天完成一个小步骤，长期积累一个作品集。",
+    "今天我亲手修改并运行了第一个 Python 程序。,",
 )
 
 
